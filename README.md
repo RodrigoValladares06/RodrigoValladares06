@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">A passionate frontend developer from Honduras</h3>
+<h3 align="center">A passionate frontend developer from Honduras/Guatemala</h3>
 
 - 🔭 I’m currently working on **Improve habilities using C**
 
