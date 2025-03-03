@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **enyone**
+- 👯 I’m looking to collaborate on **anyone**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rodrigo-valladares-837a28353/](https://www.linkedin.com/in/rodrigo-valladares-837a28353/)
 
