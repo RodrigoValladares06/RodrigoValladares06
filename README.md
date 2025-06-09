@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">A passionate frontend developer from Honduras/Guatemala</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Frontend+Developer;C%2B%2B+Learner;Tech+Enthusiast" alt="Typing SVG" />
