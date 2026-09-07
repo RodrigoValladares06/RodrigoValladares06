@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **C++**
 - 👯 I’m looking to collaborate on **Open-source projects**
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/rodrigo-valladares-837a28353/)
-- 💬 Ask me about **HTML, CSS, Java, Python, C++**
+- 💬 Ask me about **HTML, CSS, Java, Python**
 - 📫 How to reach me **rodri.andrelopez@gmail.com**
 
 <h3 align="left">🌐 Connect with me:</h3>
