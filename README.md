@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **Improving my skills in C**
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on **Open-source projects**
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/rodrigo-valladares-837a28353/)
 - 💬 Ask me about **HTML, CSS, Java, Python**
